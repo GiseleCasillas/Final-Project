@@ -1,0 +1,19 @@
+.reviewBox {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  margin-bottom: 8px;
+}
+
+.rating {
+  margin-bottom: 8px;
+}
+
+.content {
+  color: #555;
+}

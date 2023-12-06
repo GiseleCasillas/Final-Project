@@ -1,0 +1,168 @@
+{
+  "locations": {
+    "Los Angeles": [
+      {
+        "name": "South Beverly",
+        "address": "233 S Beverly Dr B, Beverly Hills, CA 90212"
+      },
+      {
+        "name": "Calabasas",
+        "address": "26787 Agoura Rd Unit E-9, Calabasas, CA 91302"
+      },
+      {
+        "name": "Hollywood",
+        "address": "6430 Sunset Blvd, Los Angeles, CA 90028"
+      },
+      {
+        "name": "Santa Monica",
+        "address": "525 Santa Monica Blvd, Santa Monica, CA 90401"
+      },
+      {
+        "name": "El Segundo",
+        "address": "2191 Rosecrans Ave, El Segundo, CA 90245"
+      },
+      {
+        "name": "Studio City",
+        "address": "13005 Ventura Blvd, Studio City, CA 91604"
+      },
+      {
+        "name": "Culver City",
+        "address": "9300 Culver Blvd #113, Culver City, CA, 90232"
+      },
+      {
+        "name": "DTLA – Hope",
+        "address": "801 S Hope St, Los Angeles, CA 90017"
+      },
+      {
+        "name": "Pasadena",
+        "address": "146 S Lake Ave #106, Pasadena, CA 91101"
+      },
+      {
+        "name": "Glendale",
+        "address": "252 South Brand Blvd Suite A, Glendale, CA 91204"
+      }
+    ],
+    "San Francisco": [
+      {
+        "name": "Chase Center",
+        "address": "1 Warriors Way 16th Street Office Tower #9, San Francisco, CA 94158"
+      },
+      {
+        "name": "Noe Valley",
+        "address": "4298 24th St, San Francisco, CA 94114"
+      },
+      { "name": "Castro", "address": "549 Castro St, San Francisco, CA 94114" },
+      {
+        "name": "Westborough",
+        "address": "2248 Westborough Blvd, South San Francisco, CA 94080"
+      },
+      {
+        "name": "Embarcadero",
+        "address": "5 Embarcadero Center, San Francisco, CA 94111"
+      },
+      {
+        "name": "Russian Hill",
+        "address": "2234 Polk St, San Francisco, CA 94109"
+      },
+      {
+        "name": "Folsom & Beale",
+        "address": "300 Folsom St, San Francisco, CA 94105"
+      },
+      {
+        "name": "Ocean Ave",
+        "address": "1110 Ocean Ave, San Francisco, CA 94112"
+      },
+      {
+        "name": "Dogpatch",
+        "address": "1258 Minnesota St, San Francisco, CA 94107"
+      },
+      {
+        "name": "Corte Madera",
+        "address": "403 Corte Madera Town Center, Corte Madera, CA 94925"
+      },
+      {
+        "name": "Front St",
+        "address": "1 Front St Suite 100, San Francisco, CA 94111"
+      },
+      {
+        "name": "Second Street",
+        "address": "425 Mission Street Suite 100, San Francisco CA 94105"
+      },
+      { "name": "Berry", "address": "201 Berry St, San Francisco, CA 94158" },
+      {
+        "name": "Civic Center",
+        "address": "399 Golden Gate Ave, San Francisco, CA 94102"
+      },
+      {
+        "name": "Colma",
+        "address": "5055 Junipero Serra Blvd, Colma, CA 94014"
+      },
+      { "name": "Potrero", "address": "1775 17th St, San Francisco, CA 94103" }
+    ]
+  },
+  "coffeeItems": [
+    {
+      "id": 1,
+      "name": "Cappuccino",
+      "price": 3.99,
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2021/12/Mocha-Cappuccino-004.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Espresso",
+      "price": 2.99,
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2023/03/TOH-espresso-GettyImages-1291298315-JVcrop.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Iced Coffee",
+      "price": 3.49,
+      "image": "https://frostingandfettuccine.com/wp-content/uploads/2022/12/Caramel-Iced-Coffee-6.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Americano",
+      "price": 3.79,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQus8KW15Kd7ZwjUecqwVGEOifxxSD7C1IM0A&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Flat White",
+      "price": 4.29,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUi1FZrGRgaGlChuF4QfPn6akqn2yj6cOgsg&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Cold Brew",
+      "price": 4.99,
+      "image": "https://thealmondeater.com/wp-content/uploads/2020/01/Cold-Brew-1-7.jpg"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "John Doe",
+      "rating": 5,
+      "content": "Great product!"
+    },
+    {
+      "author": "Jane Doe",
+      "rating": 4,
+      "content": "Nice experience."
+    },
+    {
+      "author": "Alice Smith",
+      "rating": 3,
+      "content": "Could be better."
+    },
+    {
+      "author": "Bob Johnson",
+      "rating": 5,
+      "content": "Excellent service!"
+    },
+    {
+      "author": "Eva Brown",
+      "rating": 2,
+      "content": "Not satisfied."
+    }
+  ]
+}

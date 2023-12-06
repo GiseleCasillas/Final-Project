@@ -1,0 +1,44 @@
+.nav-link {
+  color: blue;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.active {
+  color: red;
+  font-weight: bold;
+}
+
+.routecss {
+  color: black;
+}
+
+body {
+  background-color: #f2efdc;
+}
+
+nav {
+  background-color: #7d694d; /* Light brown color */
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 15px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white; /* Dark color for text */
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: burlywood; /* Slightly darker color on hover */
+}

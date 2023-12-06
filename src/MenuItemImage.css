@@ -1,0 +1,21 @@
+.menu-item-details {
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+img {
+  max-width: 450px;
+  max-height: 450px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  display: center;
+}
+
+button {
+  text-align: center;
+}
